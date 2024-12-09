@@ -1,2 +1,6 @@
 # Water Quality Project (DEPI)
- 
+Problem definition :
+Access to safe drinking water is a fundamental human right and essential for maintaining good health. Many regions worldwide face challenges in ensuring water safety, which can lead to adverse health outcomes, including urinary tract infections, high blood pressure, and heart disease. Unsafe water can carry various contaminants such as harmful minerals, organic compounds, and microorganisms that may affect its potability. Therefore, ensuring water quality is crucial for public health and development, and improper water supply can lead to significant economic and health burdens.
+
+solution :
+The solution proposed in this project involves using data analysis and machine learning techniques to evaluate water quality parameters and determine its potability. By analyzing key water quality indicators such as pH, hardness, total dissolved solids (TDS), chloramines, and more, we can build models that predict whether water is safe for human consumption. This data-driven approach ensures a scalable, accurate, and efficient system to monitor water quality, helping authorities and communities to manage their water supply and ensure public health safety.
